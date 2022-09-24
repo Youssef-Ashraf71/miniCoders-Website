@@ -12,6 +12,6 @@
 ### Our Bootcamps
 ![image](https://user-images.githubusercontent.com/83988379/192107145-e50d9cd9-a5d0-431d-8598-0c7c1f339e08.png)
 ### About
-![image](https://user-images.githubusercontent.com/83988379/192107176-953a7c4f-7cec-4a8e-94df-426b21c283ff.png)
+![image](https://user-images.githubusercontent.com/83988379/192107291-1606cc61-aa43-44d5-88a4-5c916c8814b2.png)
 ### Contact
 ![image](https://user-images.githubusercontent.com/83988379/192107169-e56a3161-33c3-48f5-bdca-eddf9acbf14e.png)
